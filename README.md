@@ -11,5 +11,3 @@
 2. Em qual ano é possível obter todos esses tempos?
 3. Qual o menor ano em que é possível conectar todo o reino?
 4. Qual o menor custo para se conectar o reino?
-
-[a relative link](./tp2)
